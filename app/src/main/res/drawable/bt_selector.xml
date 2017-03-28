@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    //底部菜单点击背景
+    <item android:drawable="@mipmap/home_green" android:state_pressed="true"></item>
+    <item android:drawable="@mipmap/home_grey" android:state_selected="true"></item>
+</selector>
